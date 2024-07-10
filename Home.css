@@ -1,0 +1,171 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 400px;
+}.u-section-2 .u-sheet-1 {
+  min-height: 710px;
+}
+
+.u-section-2 .u-layout-wrap-1 {
+  margin: 60px 0;
+}
+
+.u-section-2 .u-image-1 {
+  background-image: url("images/Snapchat-1286971320.jpg");
+  background-position: 50% 50%;
+  min-height: 668px;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-2 .u-image-2 {
+  background-image: url("images/CHOIR-01.jpg");
+  background-position: 50% 50%;
+  min-height: 668px;
+}
+
+.u-section-2 .u-container-layout-2 {
+  padding: 30px 0;
+}
+
+.u-section-2 .u-group-1 {
+  min-height: 367px;
+  width: 390px;
+  height: auto;
+  margin: 0 auto 0 -227px;
+}
+
+.u-section-2 .u-container-layout-3 {
+  padding: 30px;
+}
+
+.u-section-2 .u-text-1 {
+  transition-duration: 0.1s;
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px);
+  margin: 0 auto;
+}
+
+.u-section-2 .u-text-2 {
+  margin: 20px 0 0;
+}
+
+.u-section-2 .u-btn-1 {
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  background-image: none;
+  border-style: solid;
+  margin: 20px auto 0;
+}
+
+.u-section-2 .u-container-layout-4 {
+  padding: 30px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 593px;
+  }
+
+  .u-section-2 .u-layout-wrap-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 551px;
+  }
+
+  .u-section-2 .u-image-2 {
+    min-height: 551px;
+  }
+
+  .u-section-2 .u-group-1 {
+    height: auto;
+  }
+
+  .u-section-2 .u-btn-1 {
+    height: 42px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 464px;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 618px;
+  }
+
+  .u-section-2 .u-image-2 {
+    min-height: 618px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 1308px;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 722px;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-image-2 {
+    min-height: 724px;
+  }
+
+  .u-section-2 .u-group-1 {
+    margin-top: -217px;
+    margin-left: auto;
+  }
+
+  .u-section-2 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 840px;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 455px;
+  }
+
+  .u-section-2 .u-image-2 {
+    min-height: 456px;
+  }
+
+  .u-section-2 .u-group-1 {
+    min-height: 270px;
+    width: 288px;
+  }
+}
+
+.u-section-2 .u-text-1,
+.u-section-2 .u-text-1:before,
+.u-section-2 .u-text-1 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position;
+}
+
+.u-section-2 .u-container-layout:hover .u-text-1 {
+  transform: scale(1.1) translateX(0px) translateY(0px) !important;
+}
+
+.u-container-layout.hover > .u-section-2 .u-text-1 {
+  transform: scale(1.1) translateX(0px) translateY(0px) !important;
+}
